@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/franveiras1" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="franveiras1" height="30" width="40" /></a>
-<a href="https://instagram.com/franveiras12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="franveiras12" height="30" width="40" /></a>
-<a href="https://discord.gg/FranZ#7472" target="blank"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="FranZ#7472" height="30" width="40" /></a>
+<a href="https://twitter.com/franveiras1" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="franveiras1" height="30" width="40" />Twitter</a>
+<a href="https://instagram.com/franveiras12" target="blank"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="franveiras12" height="30" width="40" />Instagram</a>
+<a href="https://discord.gg/FranZ#7472" target="blank"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="FranZ#7472" height="30" width="40" />Discord</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
