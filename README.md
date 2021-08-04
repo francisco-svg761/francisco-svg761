@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📝 I regularly write articles on technology [https://twitter.com/Franveiras1](https://twitter.com/Franveiras1)
+- 📝 I regularly write articles on technology [https://twitter.com/fran_veiras](https://twitter.com/fran_veiras)
 
 - 📫 How to reach me **franciscover99@gmail.com**
 
