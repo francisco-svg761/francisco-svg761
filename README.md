@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [GroverApp](https://www.groverservices.com/)
+- 🔭 I’m currently **searching work**
 
 - 🌱 I’m currently learning **ReactJS**
 
