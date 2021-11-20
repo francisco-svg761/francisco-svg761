@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Frontend developer from Argentina</h3>
 
-- 🔭 I’m currently **searching work**
+- 🔭 I’m currently **About me** [https://franciscoveiras.vercel.app/](https://franciscoveiras.vercel.app/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJs**
 
 - 📝 I regularly write articles on technology [https://twitter.com/fran_veiras](https://twitter.com/fran_veiras)
 
