@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate Frontend developer from Argentina</h3>
 
-- 🔭 I’m currently **About me** [https://franciscoveiras.vercel.app/](https://franciscoveiras.vercel.app/)
+- 🔭 More **About me** [https://franciscoveiras.vercel.app/](https://franciscoveiras.vercel.app/)
 
 - 🌱 I’m currently learning **NextJs**
 
