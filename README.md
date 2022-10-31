@@ -3,7 +3,7 @@
 
 - 🔭 More **About me** [https://franciscoveiras.com](https://franciscoveiras.com)
 
-- 🌱 Let's talk about rust  **Typescript or Rust**
+- 🌱 Let's talk about rust  **Typescript, Rust or Neovim**
 
 - 👨‍💻 Currently working as web developer at [Üma Health AI](https://umasalud.com/)
 
