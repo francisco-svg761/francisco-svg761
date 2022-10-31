@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">A passionate Frontend developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina</h3>
 
-- 🔭 More **About me** [https://franciscoveiras.vercel.app/](https://franciscoveiras.vercel.app/)
+- 🔭 More **About me** [https://franciscoveiras.com](https://franciscoveiras.com)
 
 - 🌱 I’m currently learning **NextJs**
 
-- 📝 I regularly write articles on technology [https://twitter.com/fran_veiras](https://twitter.com/fran_veiras)
+- 👨‍💻 Currently working as web developer at [Üma Health AI](https://umasalud.com/)
 
 - 📫 How to reach me **franciscover99@gmail.com**
 
 - ⚡ Fun fact **I love to learn**
+
+<p align="left"> <a href="https://twitter.com/fran_veiras" target="blank"><img src="https://img.shields.io/twitter/follow/fran_veiras?logo=twitter&style=for-the-badge" alt="fran_veiras" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
